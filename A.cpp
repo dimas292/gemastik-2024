@@ -31,7 +31,7 @@ int main() {
         days++;
     }
     
-    cout << days << endl;
+   
     
     return 0;
 }
